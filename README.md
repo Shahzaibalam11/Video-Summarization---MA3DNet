@@ -1,1 +1,1 @@
-# Video-Summarization---MA3DNet
+# Video-Summarization-MA3DNet
